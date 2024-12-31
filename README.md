@@ -10,11 +10,11 @@ This is a fork of a fork, (https://github.com/noname25495/novafork)
 > **UPDATE ALERT**  
 > **NEW FEATURES AVAILABLE!**
 
-# Nova ☄
+# Munirfrok ☄
 
 ## Overview
 
-Nova is a versatile streaming platform designed to bring you a diverse collection of movies right to your fingertips. Whether you're into the latest blockbusters or timeless classics, Nova has something for everyone.
+Munir is a versatile streaming platform designed to bring you a diverse collection of movies right to your fingertips. Whether you're into the latest blockbusters or timeless classics, Nova has something for everyone.
 
 
 ## Actively Maintained Fork
