@@ -10,7 +10,7 @@ This is a fork of a fork, (https://github.com/noname25495/novafork)
 > **UPDATE ALERT**  
 > **NEW FEATURES AVAILABLE!**
 
-# Munirfrok ☄
+# Munirfork☄
 
 ## Overview
 
