@@ -7,3 +7,7 @@ Credits to ambr0sial for creating nova. This is built on it.
 Apple integration, meaning you can bookmark this page on ios and run it like an app. Elimniation of ads, trackers and push notifications
 ### What is this website?
 This website is a free movie streaming service. Without ads. It is also realtime updating so every new movie will show and work. Because of Nova we have many streaming providers.
+### Future updates
+Getting a domain name, still deciding lol
+Cleaning up the ui as it has expanded from removing the adds.
+Make fullscreen work on Apple Bookmark
