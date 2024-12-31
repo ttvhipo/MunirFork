@@ -1,4 +1,4 @@
-![alt text](touchicon.png)
+![alt text](readme.png)
 # MunirFork
 This site is a fork of (https://github.com/noname25495/novafork).
 This website has eliminated ads and other things that are not needed for the website to be running.
