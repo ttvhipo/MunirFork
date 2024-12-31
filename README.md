@@ -1,4 +1,4 @@
-![MunirFork Banner](Readme.png)
+<img src="Readme.png" width="128" height="128" />
 
 # MunirFork
 
