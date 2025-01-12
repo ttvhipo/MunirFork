@@ -23,7 +23,7 @@ MunirFork is a free movie streaming platform that allows users to watch movies w
 
 ## Future Updates
 
-- **~Domain Name:** A custom domain name will be acquired for a more professional and accessible URL (currently under consideration).~
+- **Domain Name:** ~~A custom domain name will be acquired for a more professional and accessible URL (currently under consideration).~~ ✅
 - **UI Improvements:** Further optimizations to the user interface to address the expanded layout from previous updates, making it cleaner and more responsive.
 - **Apple Bookmark Full-Screen Mode:** Enhancing the Apple Bookmark functionality to allow a true full-screen experience on iOS devices.
 
